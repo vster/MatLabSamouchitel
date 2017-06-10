@@ -1,0 +1,1 @@
+format rat;beta((1:10)',4)
